@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
+![MasterHead](https://images.wallpapersden.com/image/download/8-bit-programmer-4k-pixel-art_bmdpZ2qUmZqaraWkpJRnZWVlrWllZQ.jpg)
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">Passionate about the intersection of technology and innovation, I am a B.Tech student specializing in Information Technology. Eager to embark on a successful professional journey.</h3>
 
