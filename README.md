@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">Passionate about the intersection of technology and innovation, I am a B.Tech Graduate. Eager to embark on a successful professional journey.</h3>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/51194584/258857674-a1827d5b-af82-45b7-947e-3382f2431c75.gif" /> </p>
+<p align="right"> <img src="https://user-images.githubusercontent.com/51194584/258857674-a1827d5b-af82-45b7-947e-3382f2431c75.gif" /> </p>
 
 - 🔭 I’m currently working on **Weather App**
 
