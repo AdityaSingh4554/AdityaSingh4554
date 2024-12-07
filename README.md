@@ -1,4 +1,4 @@
-![MasterHead]([https://miro.medium.com/v2/resize:fit:1400/0*x4rQFjfi0iK3gS1T.gif](https://media.tenor.com/DHWenG1ebgcAAAAC/deepweb.gif])
+![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">Passionate about the intersection of technology and innovation, I am a B.Tech student specializing in Information Technology. Eager to embark on a successful professional journey.</h3>
 
