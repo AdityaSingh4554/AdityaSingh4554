@@ -4,13 +4,13 @@
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/51194584/258857674-a1827d5b-af82-45b7-947e-3382f2431c75.gif" /> </p>
 
-                                        - 🔭 I’m currently working on **Weather App**
+                                      - 🔭 I’m currently working on **Weather App**
 
-                                        - 🌱 I’m currently learning **React**
+                                      - 🌱 I’m currently learning **React**
 
-                                        - 💬 Ask me about **Java,JavaScript,Python,ML**
+                                      - 💬 Ask me about **Java,JavaScript,Python,ML**
 
-                                        - 📫 How to reach me **adisne45@gmail.com**
+                                      - 📫 How to reach me **adisne45@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
