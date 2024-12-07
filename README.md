@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">Passionate about the intersection of technology and innovation, I am a B.Tech student specializing in Information Technology. Eager to embark on a successful professional journey.</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=adityasingh4554&label=Profile%20views&color=0e75b6&style=flat" alt="adityasingh4554](https://user-images.githubusercontent.com/51194584/258857674-a1827d5b-af82-45b7-947e-3382f2431c75.gif)" /> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/51194584/258857674-a1827d5b-af82-45b7-947e-3382f2431c75.gif" /> </p>
 
 - 🔭 I’m currently working on **Weather App**
 
